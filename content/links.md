@@ -1,10 +1,10 @@
 ---
 key: links
 data:
-  - label: Instagram
-    url: instagram.com/instagram
   - label: Follow us on Instagram 📸
     url: https://instagram.com/mars.collective
+  - label: Instagram
+    url: instagram.com/instagram
   - label: See our portfolio on Behance 🎨
     url: https://www.behance.net/marscollective
   - label: See what we're coding on Github 🧑‍💻
