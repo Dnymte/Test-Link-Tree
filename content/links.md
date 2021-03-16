@@ -1,8 +1,8 @@
 ---
 key: links
 data:
-  - label: Chat with us on WhatsApp 💬
-    url: https://wa.me/5545991328593
+  - label: Instagram
+    url: instagram.com/instagram
   - label: Follow us on Instagram 📸
     url: https://instagram.com/mars.collective
   - label: See our portfolio on Behance 🎨
