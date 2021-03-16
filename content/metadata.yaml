@@ -4,10 +4,10 @@ description: Little Desc
 logo: dynooooo.jpg
 favicon: dynooooo.jpg
 colors:
-  DEFAULT: "#FAFAFA"
-  highlight: "#00d1b7"
-  accent: "#262626"
-  background: "#262626"
+  DEFAULT: "#000000"
+  highlight: "#f05454"
+  accent: "#ffffff"
+  background: "#000000"
 rounded: "16"
 siteUrl: https://pedantic-wing-f03d23.netlify.app/
 lang: en
